@@ -36,7 +36,7 @@ print '\n          ------------------------------------- \n'
 print '\n         |           Assalamu Alailkum          |\n'
 print '\n         |        TARGET CLONING FACEBOOK       |\n'
 print '\n         |Coded By MUHAMMAD ZEESHAN(aamirzk9211)|\n'
-print '\n         |   Problem? Whatsapp Me +923097992202 |\n'
+print '\n         |   Problem? Whatsapp Me +923125939861 |\n'
 print '\n          ------------------------------------- \n'
 for password in wordlist:
     if password == '' or password == ' ':
